@@ -1,4 +1,5 @@
-# PruebaRunt
+# Ejercicio realizado por @ Juan Alexander Agreda
+Esta prueba se realiza segun las especificaciones de la convocatoria
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
